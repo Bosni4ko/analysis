@@ -1,0 +1,3064 @@
+{
+  "participant_name": "Participant",
+  "participant_number": 12,
+  "metadata": {
+    "Vecums": "56",
+    "Dzimums": "Sieviete"
+  },
+  "stimulus_log": [
+    {
+      "stimulus_number": 1,
+      "no_target": false,
+      "number_of_distractors": 17,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 2,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn106.bmp"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn036.bmp"
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp083.bmp"
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn121.bmp"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp063.bmp"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn018.bmp"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn083.bmp"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp062.bmp"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn061.bmp"
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp109.bmp"
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn103.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp053.bmp"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp135.bmp"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\P074.bmp"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn084.bmp"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn100.bmp"
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn095.bmp"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp096.bmp"
+        }
+      ],
+      "reaction_time_seconds": 3.7015654
+    },
+    {
+      "stimulus_number": 2,
+      "no_target": true,
+      "number_of_distractors": 11,
+      "target_present": false,
+      "placements": [
+        {
+          "row": 1,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp058.bmp"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn090.bmp"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp053.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp125.bmp"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp087.bmp"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn033.bmp"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp006.bmp"
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn105.bmp"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp128.bmp"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn078.bmp"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp062.bmp"
+        }
+      ],
+      "reaction_time_seconds": 20.004393
+    },
+    {
+      "stimulus_number": 3,
+      "no_target": false,
+      "number_of_distractors": 9,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 0,
+          "col": 2,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\P074.bmp"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn113.bmp"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp098.bmp"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn046.bmp"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn068.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp054.bmp"
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp152.bmp"
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp032.bmp"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn067.bmp"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn132.bmp"
+        }
+      ],
+      "reaction_time_seconds": 1.4593768
+    },
+    {
+      "stimulus_number": 4,
+      "no_target": false,
+      "number_of_distractors": 22,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 1,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn111.bmp"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp104.bmp"
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp038.bmp"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn052.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn121.bmp"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp159.bmp"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp036.bmp"
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn071.bmp"
+        },
+        {
+          "row": 0,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp131.bmp"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn003.bmp"
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp066.bmp"
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp144.bmp"
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn063.bmp"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp030.bmp"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn001.bmp"
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp146.bmp"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn115.bmp"
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp019.bmp"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn128.bmp"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp088.bmp"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn057.bmp"
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\P074.bmp"
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp114.bmp"
+        }
+      ],
+      "reaction_time_seconds": 1.4967299
+    },
+    {
+      "stimulus_number": 5,
+      "no_target": false,
+      "number_of_distractors": 20,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 4,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn096.bmp"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn072.bmp"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp051.bmp"
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn060.bmp"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp040.bmp"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp001.bmp"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn120.bmp"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp084.bmp"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp043.bmp"
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp077.bmp"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn113.bmp"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp125.bmp"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn122.bmp"
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp070.bmp"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp155.bmp"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\P074.bmp"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp018.bmp"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp066.bmp"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp078.bmp"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp106.bmp"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn103.bmp"
+        }
+      ],
+      "reaction_time_seconds": 2.9814275
+    },
+    {
+      "stimulus_number": 6,
+      "no_target": false,
+      "number_of_distractors": 24,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 4,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp045.bmp"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp068.bmp"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp155.bmp"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn096.bmp"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp026.bmp"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp081.bmp"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp074.bmp"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn020.bmp"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp100.bmp"
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn018.bmp"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp067.bmp"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn074.bmp"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp107.bmp"
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp070.bmp"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp087.bmp"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\P083.bmp"
+        },
+        {
+          "row": 0,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp149.bmp"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp069.bmp"
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn043.bmp"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn114.bmp"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp017.bmp"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp106.bmp"
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn103.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp075.bmp"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn025.bmp"
+        }
+      ],
+      "reaction_time_seconds": 7.4296051
+    },
+    {
+      "stimulus_number": 7,
+      "no_target": false,
+      "number_of_distractors": 31,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 4,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp016.bmp"
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn112.bmp"
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn040.bmp"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn042.bmp"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn088.bmp"
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp086.bmp"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\P012.bmp"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp145.bmp"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp060.bmp"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp150.bmp"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp159.bmp"
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp084.bmp"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp149.bmp"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp138.bmp"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn035.bmp"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn075.bmp"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp080.bmp"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn010.bmp"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn081.bmp"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp096.bmp"
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp113.bmp"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn023.bmp"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn070.bmp"
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp029.bmp"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp015.bmp"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn013.bmp"
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp156.bmp"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp007.bmp"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp010.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn058.bmp"
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn064.bmp"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp130.bmp"
+        }
+      ],
+      "reaction_time_seconds": 0.8538843
+    },
+    {
+      "stimulus_number": 8,
+      "no_target": false,
+      "number_of_distractors": 19,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 3,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp126.bmp"
+        },
+        {
+          "row": 0,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn026.bmp"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn021.bmp"
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn079.bmp"
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp102.bmp"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn053.bmp"
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn093.bmp"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp062.bmp"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\P127.bmp"
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn094.bmp"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp072.bmp"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp054.bmp"
+        },
+        {
+          "row": 0,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp094.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn043.bmp"
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp064.bmp"
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp125.bmp"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn047.bmp"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp042.bmp"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp127.bmp"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp037.bmp"
+        }
+      ],
+      "reaction_time_seconds": 1.8906558
+    },
+    {
+      "stimulus_number": 9,
+      "no_target": true,
+      "number_of_distractors": 20,
+      "target_present": false,
+      "placements": [
+        {
+          "row": 1,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp028.bmp"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn024.bmp"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn030.bmp"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp122.bmp"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn121.bmp"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp136.bmp"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp001.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp159.bmp"
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn050.bmp"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp144.bmp"
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp072.bmp"
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp032.bmp"
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp130.bmp"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn087.bmp"
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn083.bmp"
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp094.bmp"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp078.bmp"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn043.bmp"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp036.bmp"
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn131.bmp"
+        }
+      ],
+      "reaction_time_seconds": 20.0048782
+    },
+    {
+      "stimulus_number": 10,
+      "no_target": false,
+      "number_of_distractors": 19,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 3,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp037.bmp"
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp112.bmp"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp050.bmp"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn028.bmp"
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn026.bmp"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp135.bmp"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp030.bmp"
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn041.bmp"
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn022.bmp"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn044.bmp"
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn116.bmp"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn108.bmp"
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp093.bmp"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn073.bmp"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn064.bmp"
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sp019.bmp"
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn021.bmp"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\P105.bmp"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn128.bmp"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\Sn018.bmp"
+        }
+      ],
+      "reaction_time_seconds": 2.4480533
+    },
+    {
+      "stimulus_number": 11,
+      "no_target": false,
+      "number_of_distractors": 32,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 6,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P043.bmp"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P029.bmp"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P083.bmp"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P056.bmp"
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P030.bmp"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P063.bmp"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P054.bmp"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P091.bmp"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P022.bmp"
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P050.bmp"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P100.bmp"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P011.bmp"
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P031.bmp"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P124.bmp"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P094.bmp"
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P075.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P116.bmp"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P037.bmp"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P018.bmp"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P072.bmp"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P078.bmp"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P020.bmp"
+        },
+        {
+          "row": 0,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P021.bmp"
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P048.bmp"
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P086.bmp"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P084.bmp"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P122.bmp"
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P110.bmp"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P103.bmp"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P128.bmp"
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P015.bmp"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\Sn022.bmp"
+        },
+        {
+          "row": 0,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P004.bmp"
+        }
+      ],
+      "reaction_time_seconds": 4.0300462
+    },
+    {
+      "stimulus_number": 12,
+      "no_target": false,
+      "number_of_distractors": 36,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 0,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P097.bmp"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P038.bmp"
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P023.bmp"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P064.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P069.bmp"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P114.bmp"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P055.bmp"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P048.bmp"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P112.bmp"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P094.bmp"
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P008.bmp"
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P021.bmp"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P013.bmp"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P098.bmp"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P078.bmp"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P029.bmp"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P010.bmp"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P044.bmp"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P047.bmp"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P067.bmp"
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P113.bmp"
+        },
+        {
+          "row": 0,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P020.bmp"
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P105.bmp"
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P084.bmp"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\Sn022.bmp"
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P061.bmp"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P074.bmp"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P128.bmp"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P031.bmp"
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P027.bmp"
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P077.bmp"
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P025.bmp"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P118.bmp"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P123.bmp"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P011.bmp"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P056.bmp"
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P018.bmp"
+        }
+      ],
+      "reaction_time_seconds": 2.2472406
+    },
+    {
+      "stimulus_number": 13,
+      "no_target": true,
+      "number_of_distractors": 16,
+      "target_present": false,
+      "placements": [
+        {
+          "row": 3,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P111.bmp"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P064.bmp"
+        },
+        {
+          "row": 0,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P001.bmp"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P010.bmp"
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P090.bmp"
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P005.bmp"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P076.bmp"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P036.bmp"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P025.bmp"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P040.bmp"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P078.bmp"
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P067.bmp"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P125.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P058.bmp"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P117.bmp"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P103.bmp"
+        }
+      ],
+      "reaction_time_seconds": 20.0063317
+    },
+    {
+      "stimulus_number": 14,
+      "no_target": false,
+      "number_of_distractors": 31,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 0,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P084.bmp"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P099.bmp"
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P044.bmp"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P035.bmp"
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P062.bmp"
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P058.bmp"
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P085.bmp"
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P095.bmp"
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P114.bmp"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P113.bmp"
+        },
+        {
+          "row": 0,
+          "col": 0,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\Sn022.bmp"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P015.bmp"
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P104.bmp"
+        },
+        {
+          "row": 0,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P023.bmp"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P076.bmp"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P029.bmp"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P038.bmp"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P018.bmp"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P020.bmp"
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P093.bmp"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P081.bmp"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P125.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P007.bmp"
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P040.bmp"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P089.bmp"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P083.bmp"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P112.bmp"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P118.bmp"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P069.bmp"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P107.bmp"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P037.bmp"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P074.bmp"
+        }
+      ],
+      "reaction_time_seconds": 8.6367955
+    },
+    {
+      "stimulus_number": 15,
+      "no_target": false,
+      "number_of_distractors": 18,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 3,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P077.bmp"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P092.bmp"
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P083.bmp"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P030.bmp"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P097.bmp"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P070.bmp"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\Sn022.bmp"
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P003.bmp"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P112.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P087.bmp"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P080.bmp"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P013.bmp"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P047.bmp"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P101.bmp"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P128.bmp"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P089.bmp"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P065.bmp"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P107.bmp"
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P042.bmp"
+        }
+      ],
+      "reaction_time_seconds": 3.2752903
+    },
+    {
+      "stimulus_number": 16,
+      "no_target": true,
+      "number_of_distractors": 31,
+      "target_present": false,
+      "placements": [
+        {
+          "row": 3,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P129.bmp"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P017.bmp"
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P119.bmp"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P124.bmp"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P128.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P029.bmp"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P070.bmp"
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P088.bmp"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P037.bmp"
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P113.bmp"
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P074.bmp"
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P028.bmp"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P036.bmp"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P082.bmp"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P066.bmp"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P097.bmp"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P123.bmp"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P095.bmp"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P071.bmp"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P076.bmp"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P030.bmp"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P015.bmp"
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P083.bmp"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P013.bmp"
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P009.bmp"
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P077.bmp"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P058.bmp"
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P007.bmp"
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P065.bmp"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P063.bmp"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P008.bmp"
+        }
+      ],
+      "reaction_time_seconds": 20.0146421
+    },
+    {
+      "stimulus_number": 17,
+      "no_target": false,
+      "number_of_distractors": 18,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 1,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P004.bmp"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P082.bmp"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\Sn080.bmp"
+        },
+        {
+          "row": 0,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P009.bmp"
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P098.bmp"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P001.bmp"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P116.bmp"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P080.bmp"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P063.bmp"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P061.bmp"
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P075.bmp"
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P070.bmp"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P123.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P119.bmp"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P073.bmp"
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P049.bmp"
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P103.bmp"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P125.bmp"
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P052.bmp"
+        }
+      ],
+      "reaction_time_seconds": 3.1277468
+    },
+    {
+      "stimulus_number": 18,
+      "no_target": false,
+      "number_of_distractors": 17,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 4,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P038.bmp"
+        },
+        {
+          "row": 0,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P116.bmp"
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P113.bmp"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P008.bmp"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P108.bmp"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P012.bmp"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P018.bmp"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P124.bmp"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P066.bmp"
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P064.bmp"
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P067.bmp"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\Sp028.bmp"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P110.bmp"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P048.bmp"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P023.bmp"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P098.bmp"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P099.bmp"
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P021.bmp"
+        }
+      ],
+      "reaction_time_seconds": 1.1628055
+    },
+    {
+      "stimulus_number": 19,
+      "no_target": false,
+      "number_of_distractors": 38,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 1,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P083.bmp"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P017.bmp"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P078.bmp"
+        },
+        {
+          "row": 0,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P116.bmp"
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P041.bmp"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P063.bmp"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P036.bmp"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P105.bmp"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P125.bmp"
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P056.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P089.bmp"
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P100.bmp"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P020.bmp"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P039.bmp"
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P062.bmp"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\Sp012.bmp"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P098.bmp"
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P073.bmp"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P086.bmp"
+        },
+        {
+          "row": 0,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P077.bmp"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P025.bmp"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P074.bmp"
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P108.bmp"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P043.bmp"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P095.bmp"
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P042.bmp"
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P093.bmp"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P129.bmp"
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P070.bmp"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P090.bmp"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P054.bmp"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P018.bmp"
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P003.bmp"
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P080.bmp"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P096.bmp"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P048.bmp"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P071.bmp"
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P084.bmp"
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P094.bmp"
+        }
+      ],
+      "reaction_time_seconds": 1.2665131
+    },
+    {
+      "stimulus_number": 20,
+      "no_target": false,
+      "number_of_distractors": 34,
+      "target_present": true,
+      "placements": [
+        {
+          "row": 3,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P112.bmp"
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P015.bmp"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P105.bmp"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P083.bmp"
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P054.bmp"
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P064.bmp"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P099.bmp"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P055.bmp"
+        },
+        {
+          "row": 0,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P012.bmp"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P097.bmp"
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P010.bmp"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P020.bmp"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P028.bmp"
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P118.bmp"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P095.bmp"
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P052.bmp"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P065.bmp"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P003.bmp"
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P045.bmp"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P006.bmp"
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P056.bmp"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P034.bmp"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P037.bmp"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P014.bmp"
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P046.bmp"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P060.bmp"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P092.bmp"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P080.bmp"
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P071.bmp"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P061.bmp"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P087.bmp"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P011.bmp"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P085.bmp"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "is_target": true,
+          "image_path": "experiments\\First_Test_experiment\\selections\\Sp010.bmp"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "is_target": false,
+          "image_path": "experiments\\First_Test_experiment\\distractors\\P110.bmp"
+        }
+      ],
+      "reaction_time_seconds": 4.0078636
+    }
+  ]
+}
