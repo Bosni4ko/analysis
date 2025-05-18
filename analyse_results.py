@@ -3,10 +3,16 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import json
 import glob
+import os
 from scipy.stats import pearsonr
+#Define input and output folder
+DATA_FOLDER = "data"
+RESULTS_FOLDER = "results"
+
+os.makedirs(RESULTS_FOLDER, exist_ok=True)
 
 # Load data
-df = pd.read_csv("stimulus_times.csv")
+df = pd.read_csv(os.path.join(DATA_FOLDER, "stimulus_times.csv"))
 
 # Prepare long format for easier analysis
 long_df = pd.DataFrame()
@@ -63,7 +69,7 @@ plt.title("Reģistrēto aizturu sadalījums (stimuli bez mērķa)")
 plt.xlabel("Aiztures intervāls")
 plt.ylabel("Stimulu skaits")
 plt.tight_layout()
-plt.savefig("no_target_excess_delay_ranges.png")
+plt.savefig(os.path.join(RESULTS_FOLDER,"no_target_excess_delay_ranges.png"))
 plt.close()
 
 # Filter only trials with target present
@@ -79,7 +85,7 @@ plt.xlabel("Stimula numurs")
 plt.ylabel("Reakcijas laiks (sekundēs)")
 plt.xticks(rotation=0)
 plt.tight_layout()
-plt.savefig("stimulus_avg_median.png")
+plt.savefig(os.path.join(RESULTS_FOLDER,"stimulus_avg_median.png"))
 plt.close()
 
 # --- 2. Time trend for 1-5 and 11-15 ---
@@ -93,7 +99,7 @@ def plot_time_trend(start, end, filename):
     plt.xlabel("Stimula numurs")
     plt.xticks(range(start, end + 1))
     plt.tight_layout()
-    plt.savefig(filename)
+    plt.savefig(os.path.join(RESULTS_FOLDER,filename))
     plt.close()
 
 plot_time_trend(1, 5, "trend_1_5.png")
@@ -112,7 +118,7 @@ def compare_ranges(range1, range2, label1, label2, filename):
     plt.ylabel("Reakcijas laiks (sekundēs)")
     plt.xticks(rotation=0)
     plt.tight_layout()
-    plt.savefig(filename)
+    plt.savefig(os.path.join(RESULTS_FOLDER,filename))
     plt.close()
 
 compare_ranges((1, 5), (6, 10), "Stimuli 1-5", "Stimuli 6-10", "compare_1_5_vs_6_10.png")
@@ -123,7 +129,8 @@ compare_ranges((1, 5), (11, 15), "Stimuli 1-5", "Stimuli 11-15", "compare_1_5_vs
 compare_ranges((6, 10), (16, 20), "Stimuli 6-10", "Stimuli 16-20", "compare_6_10_vs_16_20.png")
 
 # --- 5. Correlation: Reaction time vs number of distractors for stimuli 1-5 and 11-15 ---
-json_files = glob.glob("Participant_*.json")
+json_files = glob.glob(os.path.join(DATA_FOLDER, "Participant_*.json"))
+
 
 for stim_range, label in [((1, 5), "1_5"), ((11, 15), "11_15")]:
     all_corr_data = []
@@ -150,11 +157,11 @@ for stim_range, label in [((1, 5), "1_5"), ((11, 15), "11_15")]:
         plt.ylabel("Reakcijas laiks (sekundēs)")
         plt.grid(True)
         plt.tight_layout()
-        plt.savefig(f"distractor_vs_time_corr_{label}.png")
+        plt.savefig(os.path.join(RESULTS_FOLDER,f"distractor_vs_time_corr_{label}.png"))
         plt.close()
         print(f"Stimuli {stim_range[0]}–{stim_range[1]} Correlation: {corr:.3f}, p-value: {p_val:.3f}")
 # === Save per-stimulus stats to CSV ===
-stimulus_stats.to_csv("stimulus_stats_individual.csv")
+stimulus_stats.to_csv(os.path.join(RESULTS_FOLDER, "stimulus_stats_individual.csv"))
 
 # === Save per-range stats to CSV ===
 ranges = {
@@ -173,8 +180,29 @@ for label, (start, end) in ranges.items():
     })
 
 range_stats_df = pd.DataFrame(range_stats)
-range_stats_df.to_csv("stimulus_stats_ranges.csv", index=False)
+range_stats_df.to_csv(os.path.join(RESULTS_FOLDER, "stimulus_stats_ranges.csv"), index=False)
 
-   
-    
+#  7. Create grouped bar chart of mean and median by stimulus range 
 
+# Create bar chart of range means and medians
+x = range_stats_df["Range"]
+mean_vals = range_stats_df["Mean"]
+median_vals = range_stats_df["Median"]
+
+x_indices = range(len(x))
+bar_width = 0.35
+
+fig, ax = plt.subplots(figsize=(10, 6))
+ax.bar(x_indices, mean_vals, width=bar_width, label="Vidējais")
+ax.bar([i + bar_width for i in x_indices], median_vals, width=bar_width, label="Mediāna")
+
+ax.set_xlabel("Stimulu intervāls")
+ax.set_ylabel("Reakcijas laiks (sekundēs)")
+ax.set_title("Reakcijas laiks pēc emocionālā stimulu bloka")
+ax.set_xticks([i + bar_width / 2 for i in x_indices])
+ax.set_xticklabels(x, rotation=15, ha='right')
+ax.legend()
+plt.tight_layout()
+
+plt.savefig(os.path.join(RESULTS_FOLDER,"reaction_time_by_range.png"))
+plt.close()
